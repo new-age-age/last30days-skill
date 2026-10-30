@@ -1,0 +1,64 @@
+/last30days · researching: LINEスタンプ 売上 公開
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="LINEスタンプ 売上 公開" sources=[youtube,hackernews]
+[YouTube] Searching YouTube for 'lineスタンプ 売上 公開' (since 2026-09-30, count=40)
+[HN] Searching for 'lineスタンプ 売上 公開' (raw: 'LINEスタンプ 売上 公開', since 2026-09-30, count=60)
+[HN] Found 0 stories
+[YouTube] Found 4 videos within date range
+[YouTube] Searching YouTube for 'lineスタンプ 売上 公開 review reaction breakdown' (since 2026-09-30, count=40)
+[YouTube] Found 6 videos within date range
+[YouTube] Searching YouTube for 'lineスタンプ 売上 公開 full complete official' (since 2026-09-30, count=40)
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] AeInTXXcGA0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[YouTube] Fetching transcripts for up to 10 videos (target: 8): ['Gy7NVvFsAGQ', '62tjDbExdU8', 'yE-ocRQVOX0', '17VR6ZYAQnM', 'lB_g07-7k8Y', 'F0Rt0wRKIIw', 'GoH_PVEpzKE', 'riPrjAGDeKQ', 'y3D32BDJUHg', '-L-VEZRscn0']
+[YouTube] Fetching transcripts for 10 videos
+[YouTube] yt-dlp transcript transient failure for 62tjDbExdU8 (attempt 1/3): ERROR: [youtube] 62tjDbExdU8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for yE-ocRQVOX0 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for lB_g07-7k8Y (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for 62tjDbExdU8 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for GoH_PVEpzKE (attempt 1/3): ERROR: [youtube] GoH_PVEpzKE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for yE-ocRQVOX0 (attempt 2/3): ERROR: [youtube] yE-ocRQVOX0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for riPrjAGDeKQ (attempt 1/3): ERROR: [youtube] riPrjAGDeKQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for lB_g07-7k8Y (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for 62tjDbExdU8 (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for 62tjDbExdU8: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for 62tjDbExdU8
+[YouTube] yt-dlp transcript transient failure for y3D32BDJUHg (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for riPrjAGDeKQ (attempt 2/3): ERROR: [youtube] riPrjAGDeKQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript failed for yE-ocRQVOX0 (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for yE-ocRQVOX0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for yE-ocRQVOX0
+[YouTube] yt-dlp transcript transient failure for -L-VEZRscn0 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for lB_g07-7k8Y (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for lB_g07-7k8Y: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for lB_g07-7k8Y
+[YouTube] yt-dlp transcript transient failure for y3D32BDJUHg (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for -L-VEZRscn0 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for y3D32BDJUHg (exit 1): ERROR: [youtube] y3D32BDJUHg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for y3D32BDJUHg: ERROR: [youtube] y3D32BDJUHg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for y3D32BDJUHg
+[YouTube] yt-dlp transcript failed for -L-VEZRscn0 (exit 1): ERROR: [youtube] -L-VEZRscn0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for -L-VEZRscn0: ERROR: [youtube] -L-VEZRscn0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for -L-VEZRscn0
+[YouTube] Got transcripts for 5/10 videos (5 failed)
+[YouTube] Enriching comments for 3 YouTube videos
+[YouTube] yt-dlp comment fetch failed for yE-ocRQVOX0 (exit 1)
+[YouTube] Enriched 2/3 videos with comments
+[YouTube] relevance prune dropped 3 of 10 items below the relevance/engagement floor
+[HN] Searching for 'lineスタンプ 売上 公開' (raw: 'lineスタンプ 売上 公開', since 2026-09-30, count=60)
+[HN] Found 0 stories
+[YouTube] Backfilling transcripts for 2 finalized videos (target: 3)
+[YouTube] Fetching transcripts for 2 videos
+[YouTube] yt-dlp transcript transient failure for y3D32BDJUHg (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for -L-VEZRscn0 (attempt 1/3): ERROR: [youtube] -L-VEZRscn0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for -L-VEZRscn0 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for y3D32BDJUHg (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for -L-VEZRscn0 (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for -L-VEZRscn0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for -L-VEZRscn0
+[YouTube] yt-dlp transcript failed for y3D32BDJUHg (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for y3D32BDJUHg: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for y3D32BDJUHg
+[YouTube] Got transcripts for 0/2 videos (2 failed)
+✓ Research complete (174.7s) - YouTube: 7 videos, HN: 0 stories
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/line-raw-s07.md

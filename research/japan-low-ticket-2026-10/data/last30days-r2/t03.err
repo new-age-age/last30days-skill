@@ -1,0 +1,55 @@
+/last30days · researching: VTuber 配信素材
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="VTuber 配信素材" sources=[youtube,hackernews]
+[YouTube] Searching YouTube for 'vtuber 配信素材' (since 2026-08-01, count=40)
+[HN] Searching for 'vtuber 配信素材' (raw: 'VTuber 配信素材', since 2026-08-01, count=60)
+[HN] Filtered 1/1 low-engagement stories
+[HN] Found 0 stories
+[YouTube] Found 19 videos within date range
+[YouTube] Searching YouTube for 'vtuber 配信素材 review reaction breakdown' (since 2026-08-01, count=40)
+[YouTube] Found 10 videos within date range
+[YouTube] Searching YouTube for 'vtuber 配信素材 full complete official' (since 2026-08-01, count=40)
+[YouTube] Found 21 videos within date range
+[YouTube] Fetching transcripts for up to 24 videos (target: 8): ['8ncXOgv_m34', 'wVzXwkrIYLs', 'RktDX0mge4k', '4FMru_lH-lo', 'QT1aVOdkMHc', 'T1hhKr9mB5Y', '82sV1RylEtQ', 'o24FXiwXeV4', 'M0bZITrSkhU', 'vk5gLy2e9wY', 'idTd6daOD00', 'G2L0BND_cw4', 'R5QUjjlipUk', 'vC-z2UXEv4s', 'f2Xft6TrFFw', 'MeEgdSbdXM4', 'gTQVwf22XcE', 'NF1Vh4o8wuY', 'vualkaPdEyw', 'HdaXRHcPAYI', 'qZXaM32_fnc', 'M-6GWPYvW3A', 'mBYa13biLnc', 'gK9z6HCI0-4']
+[YouTube] Fetching transcripts for 24 videos
+[YouTube] yt-dlp transcript transient failure for 8ncXOgv_m34 (attempt 1/3): ERROR: [youtube] 8ncXOgv_m34: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for 4FMru_lH-lo (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for 4FMru_lH-lo (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for idTd6daOD00 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for G2L0BND_cw4 (attempt 1/3): ERROR: [youtube] G2L0BND_cw4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for R5QUjjlipUk (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for vC-z2UXEv4s (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for idTd6daOD00 (attempt 2/3): ERROR: [youtube] idTd6daOD00: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript failed for 4FMru_lH-lo (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for 4FMru_lH-lo: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for 4FMru_lH-lo
+[YouTube] yt-dlp transcript transient failure for vC-z2UXEv4s (attempt 2/3): ERROR: [youtube] vC-z2UXEv4s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for R5QUjjlipUk (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for MeEgdSbdXM4 (attempt 1/3): ERROR: [youtube] MeEgdSbdXM4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Stopped waiting for 12 transcripts: the lane is out of time
+[YouTube] Got transcripts for 11/24 videos (1 failed)
+[YouTube] yt-dlp transcript timed out after 30s for gTQVwf22XcE (attempt 1/3)
+[YouTube] yt-dlp transcript timed out after 30s for idTd6daOD00 (attempt 3/3)
+[YouTube] Transcript fetch failed for idTd6daOD00: timed out after 30s
+[YouTube] No transcript available for idTd6daOD00
+[YouTube] relevance prune dropped 37 of 50 items below the relevance/engagement floor
+[HN] Searching for 'vtuber 配信素材' (raw: 'vtuber 配信素材', since 2026-08-01, count=60)
+[HN] Filtered 1/1 low-engagement stories
+[HN] Found 0 stories
+✓ Research complete (170.5s) - YouTube: 13 videos, HN: 0 stories
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/vtuber-raw-t03.md
+[YouTube] yt-dlp transcript timed out after 30s for MeEgdSbdXM4 (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for vC-z2UXEv4s (attempt 3/3)
+[YouTube] Transcript fetch failed for vC-z2UXEv4s: timed out after 30s
+[YouTube] No transcript available for vC-z2UXEv4s
+[YouTube] yt-dlp transcript timed out after 30s for R5QUjjlipUk (attempt 3/3)
+[YouTube] Transcript fetch failed for R5QUjjlipUk: timed out after 30s
+[YouTube] No transcript available for R5QUjjlipUk
+[YouTube] yt-dlp transcript timed out after 30s for gTQVwf22XcE (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for MeEgdSbdXM4 (attempt 3/3)
+[YouTube] Transcript fetch failed for MeEgdSbdXM4: timed out after 30s
+[YouTube] No transcript available for MeEgdSbdXM4
+[YouTube] yt-dlp transcript timed out after 30s for gTQVwf22XcE (attempt 3/3)
+[YouTube] Transcript fetch failed for gTQVwf22XcE: timed out after 30s
+[YouTube] No transcript available for gTQVwf22XcE

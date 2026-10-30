@@ -1,0 +1,86 @@
+/last30days · researching: BOOTH 売上 公開
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="BOOTH 売上 公開" sources=[youtube,hackernews]
+[HN] Searching for 'booth 売上 公開' (raw: 'BOOTH 売上 公開', since 2026-09-30, count=60)
+[YouTube] Searching YouTube for 'booth 売上 公開' (since 2026-09-30, count=40)
+[HN] Filtered 41/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 59/60 false-positive hits for 'BOOTH 売上 公開'
+[HN] Enriching top 1 stories with comments
+[YouTube] Found 4 videos within date range
+[YouTube] Searching YouTube for 'booth 売上 公開 review reaction breakdown' (since 2026-09-30, count=40)
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] jaFuJCR7Fuk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[YouTube] Searching YouTube for 'booth 売上 公開 full complete official' (since 2026-09-30, count=40)
+[YouTube] Found 8 videos within date range
+[YouTube] Fetching transcripts for up to 11 videos (target: 8): ['jWckjdHVncI', 'eGkBqG0uPbE', 'pXpdEbBsQmo', 'Dn4BcJ11WaA', 'VkKUr_tUohw', 'c5pzezobVLU', '6TxCtzPIRrU', 'qFbc1XpGln4', 'P9knKxLPBqc', 'jI00zTayxsE', 'DzifLw9jH7U']
+[YouTube] Fetching transcripts for 11 videos
+[YouTube] yt-dlp transcript transient failure for jWckjdHVncI (attempt 1/3): ERROR: [youtube] jWckjdHVncI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for eGkBqG0uPbE (attempt 1/3): ERROR: [youtube] eGkBqG0uPbE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for VkKUr_tUohw (attempt 1/3): ERROR: [youtube] VkKUr_tUohw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for pXpdEbBsQmo (attempt 1/3): ERROR: [youtube] pXpdEbBsQmo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for Dn4BcJ11WaA (attempt 1/3): ERROR: [youtube] Dn4BcJ11WaA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for jWckjdHVncI (attempt 2/3): ERROR: [youtube] jWckjdHVncI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for VkKUr_tUohw (attempt 2/3): ERROR: [youtube] VkKUr_tUohw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for pXpdEbBsQmo (attempt 2/3): ERROR: [youtube] pXpdEbBsQmo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for Dn4BcJ11WaA (attempt 2/3): ERROR: [youtube] Dn4BcJ11WaA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for c5pzezobVLU (attempt 1/3): ERROR: [youtube] c5pzezobVLU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript failed for jWckjdHVncI (exit 1): ERROR: [youtube] jWckjdHVncI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for jWckjdHVncI: ERROR: [youtube] jWckjdHVncI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for jWckjdHVncI
+[YouTube] yt-dlp transcript failed for VkKUr_tUohw (exit 1): ERROR: [youtube] VkKUr_tUohw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for VkKUr_tUohw: ERROR: [youtube] VkKUr_tUohw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for VkKUr_tUohw
+[YouTube] yt-dlp transcript transient failure for 6TxCtzPIRrU (attempt 1/3): ERROR: [youtube] 6TxCtzPIRrU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for qFbc1XpGln4 (attempt 1/3): ERROR: [youtube] qFbc1XpGln4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for c5pzezobVLU (attempt 2/3): ERROR: [youtube] c5pzezobVLU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript failed for pXpdEbBsQmo (exit 1): ERROR: [youtube] pXpdEbBsQmo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for pXpdEbBsQmo: ERROR: [youtube] pXpdEbBsQmo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for pXpdEbBsQmo
+[YouTube] yt-dlp transcript failed for Dn4BcJ11WaA (exit 1): ERROR: [youtube] Dn4BcJ11WaA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for Dn4BcJ11WaA: ERROR: [youtube] Dn4BcJ11WaA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for Dn4BcJ11WaA
+[YouTube] yt-dlp transcript transient failure for 6TxCtzPIRrU (attempt 2/3): ERROR: [youtube] 6TxCtzPIRrU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for P9knKxLPBqc (attempt 1/3): ERROR: [youtube] P9knKxLPBqc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for jI00zTayxsE (attempt 1/3): ERROR: [youtube] jI00zTayxsE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for qFbc1XpGln4 (attempt 2/3): ERROR: [youtube] qFbc1XpGln4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript failed for c5pzezobVLU (exit 1): ERROR: [youtube] c5pzezobVLU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for c5pzezobVLU: ERROR: [youtube] c5pzezobVLU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for c5pzezobVLU
+[YouTube] yt-dlp transcript transient failure for P9knKxLPBqc (attempt 2/3): ERROR: [youtube] P9knKxLPBqc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for DzifLw9jH7U (attempt 1/3): ERROR: [youtube] DzifLw9jH7U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for jI00zTayxsE (attempt 2/3): ERROR: [youtube] jI00zTayxsE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript failed for 6TxCtzPIRrU (exit 1): ERROR: [youtube] 6TxCtzPIRrU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for 6TxCtzPIRrU: ERROR: [youtube] 6TxCtzPIRrU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for 6TxCtzPIRrU
+[YouTube] Stopped waiting for 4 transcripts: the lane is out of time
+[YouTube] yt-dlp transcript timed out after 30s for DzifLw9jH7U (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for qFbc1XpGln4 (attempt 3/3)
+[YouTube] Transcript fetch failed for qFbc1XpGln4: timed out after 30s
+[YouTube] No transcript available for qFbc1XpGln4
+[YouTube] Got transcripts for 1/11 videos (6 failed)
+[YouTube] relevance prune dropped 8 of 11 items below the relevance/engagement floor
+[HN] Searching for 'booth 売上 公開' (raw: 'booth 売上 公開', since 2026-09-30, count=60)
+[HN] Filtered 41/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 59/60 false-positive hits for 'booth 売上 公開'
+[HN] Enriching top 1 stories with comments
+[YouTube] yt-dlp transcript timed out after 30s for P9knKxLPBqc (attempt 3/3)
+[YouTube] Transcript fetch failed for P9knKxLPBqc: timed out after 30s
+[YouTube] No transcript available for P9knKxLPBqc
+✓ Research complete (171.2s) - YouTube: 3 videos, HN: 1 story
+
+Research quality: 4/4 core sources.
+Degraded: YouTube.
+
+Free fixes:
+  - YouTube returned 3 videos but only 1 transcripts captured. The most common remaining cause is a stale yt-dlp binary - YouTube's caption format changes frequently and old binaries silently fail every transcript. Update via your package manager: scoop update yt-dlp (Windows), brew upgrade yt-dlp (macOS), or pip install -U yt-dlp.
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/booth-raw-s02.md
+[YouTube] yt-dlp transcript timed out after 30s for jI00zTayxsE (attempt 3/3)
+[YouTube] Transcript fetch failed for jI00zTayxsE: timed out after 30s
+[YouTube] No transcript available for jI00zTayxsE
+[YouTube] yt-dlp transcript timed out after 30s for DzifLw9jH7U (attempt 3/3)
+[YouTube] Transcript fetch failed for DzifLw9jH7U: timed out after 30s
+[YouTube] No transcript available for DzifLw9jH7U

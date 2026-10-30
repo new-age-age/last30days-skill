@@ -1,0 +1,25 @@
+/last30days · researching: 有料note 売上 公開
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="有料note 売上 公開" sources=[youtube,hackernews]
+[HN] Searching for '有料note 売上 公開' (raw: '有料note 売上 公開', since 2026-09-30, count=60)
+[YouTube] Searching YouTube for '有料note 売上 公開' (since 2026-09-30, count=40)
+[HN] Found 0 stories
+[YouTube] Found 1 videos (1 within date range, keeping only in-range for balanced_recent)
+[YouTube] Searching YouTube for '有料note 売上 公開 review reaction breakdown' (since 2026-09-30, count=40)
+[YouTube] Found 12 videos within date range
+[YouTube] Searching YouTube for '有料note 売上 公開 full complete official' (since 2026-09-30, count=40)
+[YouTube] Found 40 videos (1 within date range, keeping only in-range for balanced_recent)
+[YouTube] Fetching transcripts for up to 13 videos (target: 8): ['f26xtrVRxjQ', 'pRCUoneeV7I', 'z1CifzV_ZnQ', 'nEkRFdmdcAA', '1INh8aL63zw', '0YS8_i7xuvg', 'FhbxA91AWo8', 'wJArMBwPvRc', 'Hzvw_7-avsM', 'mdVenIaig7g', '6ZACgXtvVtw', 'txFsFNmyYKc', '7XFyxkaPCMY']
+[YouTube] Fetching transcripts for 13 videos
+[YouTube] yt-dlp transcript transient failure for pRCUoneeV7I (attempt 1/3): ERROR: [youtube] pRCUoneeV7I: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for nEkRFdmdcAA (attempt 1/3): ERROR: [youtube] nEkRFdmdcAA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for pRCUoneeV7I (attempt 2/3): ERROR: [youtube] pRCUoneeV7I: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for txFsFNmyYKc (attempt 1/3): ERROR: [youtube] txFsFNmyYKc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Got transcripts for 13/13 videos (0 failed)
+[YouTube] Enriching comments for 3 YouTube videos
+[YouTube] Enriched 3/3 videos with comments
+[HN] Searching for '有料note 売上 公開' (raw: '有料note 売上 公開', since 2026-09-30, count=60)
+[HN] Found 0 stories
+✓ Research complete (166.5s) - YouTube: 12 videos, HN: 0 stories
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/note-raw-s06.md

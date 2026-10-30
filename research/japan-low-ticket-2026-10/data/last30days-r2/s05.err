@@ -1,0 +1,56 @@
+/last30days · researching: Brain 売上 公開
+⏳ [95mProcessing[0m Crunching the data...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="Brain 売上 公開" sources=[youtube,hackernews]
+[HN] Searching for 'brain 売上 公開' (raw: 'Brain 売上 公開', since 2026-09-30, count=60)
+[YouTube] Searching YouTube for 'brain 売上 公開' (since 2026-09-30, count=40)
+[HN] Filtered 54/120 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 5/60 false-positive hits for 'Brain 売上 公開'
+[HN] Enriching top 10 stories with comments
+[YouTube] Found 5 videos within date range
+[YouTube] Searching YouTube for 'brain 売上 公開 review reaction breakdown' (since 2026-09-30, count=40)
+[YouTube] Found 33 videos within date range
+[YouTube] Searching YouTube for 'brain 売上 公開 full complete official' (since 2026-09-30, count=40)
+[YouTube] Found 1 videos (0 within date range, keeping only in-range for balanced_recent)
+[YouTube] Fetching transcripts for up to 24 videos (target: 8): ['f26xtrVRxjQ', 'oLSovb-zk80', '3Hhyy1MRPqk', 'bAKlMsYXyMY', 'Jjr1HtI4iDQ', 'MMN52nPvNA4', 'rUUkU7w0LcE', 'yc4wHKRFp7E', 'pRCUoneeV7I', 'w22ezpSH-3E', 'VvKQYijZKMw', 'rg9TR3i4-Bc', 'vlEJQe5jOXU', '-gYHTdl7koQ', '5A1u8XV1UVk', 'bTjcqBHVfgg', 'Dn4BcJ11WaA', 'ZYVrbQRMkT4', 'r6J0Rq4A90Y', '5l1h_DtNxLs', 'mGHsjy2v8As', 'mv62CMzp-_Q', '36tqJQQRGSg', 'T9qwbdisA5c']
+[YouTube] Fetching transcripts for 24 videos
+[YouTube] yt-dlp transcript transient failure for rUUkU7w0LcE (attempt 1/3): ERROR: [youtube] rUUkU7w0LcE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for yc4wHKRFp7E (attempt 1/3): ERROR: [youtube] yc4wHKRFp7E: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for rUUkU7w0LcE (attempt 2/3): ERROR: [youtube] rUUkU7w0LcE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp found no captions for Dn4BcJ11WaA, trying direct HTTP fallback
+[YouTube] yt-dlp transcript transient failure for ZYVrbQRMkT4 (attempt 1/3): ERROR: [youtube] ZYVrbQRMkT4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Direct transcript: no caption tracks for Dn4BcJ11WaA
+[YouTube] No transcript available for Dn4BcJ11WaA
+[YouTube] yt-dlp transcript failed for rUUkU7w0LcE (exit 1): ERROR: [youtube] rUUkU7w0LcE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for rUUkU7w0LcE: ERROR: [youtube] rUUkU7w0LcE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for rUUkU7w0LcE
+[YouTube] yt-dlp transcript timed out after 30s for T9qwbdisA5c (attempt 1/3)
+[YouTube] yt-dlp transcript timed out after 30s for ZYVrbQRMkT4 (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for 36tqJQQRGSg (attempt 1/3)
+[YouTube] yt-dlp transcript timed out after 30s for mv62CMzp-_Q (attempt 1/3)
+[YouTube] Stopped waiting for 5 transcripts: the lane is out of time
+[YouTube] Got transcripts for 17/24 videos (2 failed)
+[YouTube] yt-dlp transcript timed out after 30s for mGHsjy2v8As (attempt 1/3)
+[YouTube] relevance prune dropped 19 of 38 items below the relevance/engagement floor
+✓ Research complete (170.6s) - YouTube: 19 videos, HN: 20 stories
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/brain-raw-s05.md
+[YouTube] yt-dlp transcript timed out after 30s for T9qwbdisA5c (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for 36tqJQQRGSg (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for mv62CMzp-_Q (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for mGHsjy2v8As (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for ZYVrbQRMkT4 (attempt 3/3)
+[YouTube] Transcript fetch failed for ZYVrbQRMkT4: timed out after 30s
+[YouTube] No transcript available for ZYVrbQRMkT4
+[YouTube] yt-dlp transcript timed out after 30s for T9qwbdisA5c (attempt 3/3)
+[YouTube] Transcript fetch failed for T9qwbdisA5c: timed out after 30s
+[YouTube] No transcript available for T9qwbdisA5c
+[YouTube] yt-dlp transcript timed out after 30s for 36tqJQQRGSg (attempt 3/3)
+[YouTube] Transcript fetch failed for 36tqJQQRGSg: timed out after 30s
+[YouTube] No transcript available for 36tqJQQRGSg
+[YouTube] yt-dlp transcript timed out after 30s for mv62CMzp-_Q (attempt 3/3)
+[YouTube] Transcript fetch failed for mv62CMzp-_Q: timed out after 30s
+[YouTube] No transcript available for mv62CMzp-_Q
+[YouTube] yt-dlp transcript timed out after 30s for mGHsjy2v8As (attempt 3/3)
+[YouTube] Transcript fetch failed for mGHsjy2v8As: timed out after 30s
+[YouTube] No transcript available for mGHsjy2v8As

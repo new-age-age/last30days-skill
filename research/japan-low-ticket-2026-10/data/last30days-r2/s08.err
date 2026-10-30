@@ -1,0 +1,52 @@
+/last30days · researching: Kindle出版 売上 公開
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="Kindle出版 売上 公開" sources=[youtube,hackernews]
+[HN] Searching for 'kindle出版 売上 公開' (raw: 'Kindle出版 売上 公開', since 2026-09-30, count=60)
+[YouTube] Searching YouTube for 'kindle出版 売上 公開' (since 2026-09-30, count=40)
+[HN] Found 0 stories
+[YouTube] Found 40 videos (2 within date range, keeping only in-range for balanced_recent)
+[YouTube] Searching YouTube for 'kindle出版 売上 公開 review reaction breakdown' (since 2026-09-30, count=40)
+[YouTube] YouTube search failed (rc=1): ERROR: [youtube] ZhKgTrPcGj8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+[YouTube] Searching YouTube for 'kindle出版 売上 公開 full complete official' (since 2026-09-30, count=40)
+[YouTube] Found 40 videos (0 within date range, keeping only in-range for balanced_recent)
+[YouTube] Fetching transcripts for up to 2 videos (target: 8): ['lcLc1GnnjKI', 'etc12HwfJdY']
+[YouTube] Fetching transcripts for 2 videos
+[YouTube] yt-dlp transcript transient failure for lcLc1GnnjKI (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for etc12HwfJdY (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for etc12HwfJdY (attempt 2/3): ERROR: [youtube] etc12HwfJdY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for lcLc1GnnjKI (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for etc12HwfJdY (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for etc12HwfJdY: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for etc12HwfJdY
+[YouTube] yt-dlp transcript failed for lcLc1GnnjKI (exit 1): ERROR: [youtube] lcLc1GnnjKI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for lcLc1GnnjKI: ERROR: [youtube] lcLc1GnnjKI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for lcLc1GnnjKI
+[YouTube] Got transcripts for 0/2 videos (2 failed)
+[YouTube] Enriching comments for 2 YouTube videos
+[YouTube] Enriched 1/2 videos with comments
+[HN] Searching for 'kindle出版 売上 公開' (raw: 'kindle出版 売上 公開', since 2026-09-30, count=60)
+[HN] Found 0 stories
+[YouTube] Backfilling transcripts for 2 finalized videos (target: 8)
+[YouTube] Fetching transcripts for 2 videos
+[YouTube] yt-dlp transcript transient failure for lcLc1GnnjKI (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for etc12HwfJdY (attempt 1/3): ERROR: [youtube] etc12HwfJdY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for etc12HwfJdY (attempt 2/3): ERROR: [youtube] etc12HwfJdY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for lcLc1GnnjKI (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for lcLc1GnnjKI (exit 1): ERROR: [youtube] lcLc1GnnjKI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for lcLc1GnnjKI: ERROR: [youtube] lcLc1GnnjKI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for lcLc1GnnjKI
+[YouTube] yt-dlp transcript failed for etc12HwfJdY (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for etc12HwfJdY: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for etc12HwfJdY
+[YouTube] Got transcripts for 0/2 videos (2 failed)
+✓ Research complete (138.5s) - YouTube: 2 videos, HN: 0 stories
+
+Research quality: 4/4 core sources.
+Degraded: YouTube.
+
+Free fixes:
+  - YouTube returned 2 videos but only 0 transcripts captured. The most common remaining cause is a stale yt-dlp binary - YouTube's caption format changes frequently and old binaries silently fail every transcript. Update via your package manager: scoop update yt-dlp (Windows), brew upgrade yt-dlp (macOS), or pip install -U yt-dlp.
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/kindle-raw-s08.md

@@ -1,0 +1,52 @@
+/last30days · researching: 電子書籍 AI 出版
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="電子書籍 AI 出版" sources=[youtube,hackernews]
+[HN] Searching for '電子書籍 ai 出版' (raw: '電子書籍 AI 出版', since 2026-08-01, count=60)
+[YouTube] Searching YouTube for '電子書籍 ai 出版' (since 2026-08-01, count=40)
+[HN] Found 0 stories
+[YouTube] Found 5 videos within date range
+[YouTube] Searching YouTube for '電子書籍 ai 出版 review reaction breakdown' (since 2026-08-01, count=40)
+[YouTube] Found 4 videos within date range
+[YouTube] Searching YouTube for '電子書籍 ai 出版 full complete official' (since 2026-08-01, count=40)
+[YouTube] Found 11 videos within date range
+[YouTube] Fetching transcripts for up to 20 videos (target: 8): ['W0ac4RLMKUY', 'YeVHtW-39RM', 'QUBQc2o-JB8', 'axNgsK_rUUk', 'Rd27YfxAVOk', 'CNfixQmITQw', 'hamA4tUc9JQ', '2bddBbLHmpg', 'i-zDazPZowM', 'nK8hmzYy0sA', '2YiYjBdVH4U', 'p7BzwgJW7XY', 'qSRC4YbByIE', 'BpCGq4impns', 'wCVwQmtbUwM', '52liytNUvKw', 'f9ZV9Q1C7RY', 'E1I1qQdbZpA', 'B2eYHWPTszQ', 'X0Gaye_X42Q']
+[YouTube] Fetching transcripts for 20 videos
+[YouTube] yt-dlp transcript transient failure for Rd27YfxAVOk (attempt 1/3): ERROR: [youtube] Rd27YfxAVOk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for YeVHtW-39RM (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for i-zDazPZowM (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for YeVHtW-39RM (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for i-zDazPZowM (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for wCVwQmtbUwM (attempt 1/3): ERROR: [youtube] wCVwQmtbUwM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript failed for YeVHtW-39RM (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for YeVHtW-39RM: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for YeVHtW-39RM
+[YouTube] yt-dlp transcript timed out after 30s for B2eYHWPTszQ (attempt 1/3)
+[YouTube] yt-dlp transcript timed out after 30s for wCVwQmtbUwM (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for E1I1qQdbZpA (attempt 1/3)
+[YouTube] Stopped waiting for 6 transcripts: the lane is out of time
+[YouTube] yt-dlp transcript timed out after 30s for i-zDazPZowM (attempt 3/3)
+[YouTube] Transcript fetch failed for i-zDazPZowM: timed out after 30s
+[YouTube] No transcript available for i-zDazPZowM
+[YouTube] Got transcripts for 13/20 videos (1 failed)
+[YouTube] relevance prune dropped 2 of 20 items below the relevance/engagement floor
+[HN] Searching for '電子書籍 ai 出版' (raw: '電子書籍 ai 出版', since 2026-08-01, count=60)
+[HN] Found 0 stories
+✓ Research complete (170.7s) - YouTube: 18 videos, HN: 0 stories
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/ai-raw-t09.md
+[YouTube] yt-dlp transcript timed out after 30s for f9ZV9Q1C7RY (attempt 1/3)
+[YouTube] yt-dlp transcript timed out after 30s for E1I1qQdbZpA (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for B2eYHWPTszQ (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for f9ZV9Q1C7RY (attempt 2/3)
+[YouTube] yt-dlp transcript timed out after 30s for wCVwQmtbUwM (attempt 3/3)
+[YouTube] Transcript fetch failed for wCVwQmtbUwM: timed out after 30s
+[YouTube] No transcript available for wCVwQmtbUwM
+[YouTube] yt-dlp transcript timed out after 30s for E1I1qQdbZpA (attempt 3/3)
+[YouTube] Transcript fetch failed for E1I1qQdbZpA: timed out after 30s
+[YouTube] No transcript available for E1I1qQdbZpA
+[YouTube] yt-dlp transcript timed out after 30s for B2eYHWPTszQ (attempt 3/3)
+[YouTube] Transcript fetch failed for B2eYHWPTszQ: timed out after 30s
+[YouTube] No transcript available for B2eYHWPTszQ
+[YouTube] yt-dlp transcript timed out after 30s for f9ZV9Q1C7RY (attempt 3/3)
+[YouTube] Transcript fetch failed for f9ZV9Q1C7RY: timed out after 30s
+[YouTube] No transcript available for f9ZV9Q1C7RY

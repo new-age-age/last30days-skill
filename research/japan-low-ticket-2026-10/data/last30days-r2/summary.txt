@@ -1,0 +1,21 @@
+s01|30|DLsite 販売数ランキング|exit=0|YouTube: 0 videos
+s02|30|BOOTH 売上 公開|exit=0|YouTube: 3 videos
+s03|30|ココナラ 売上 公開|exit=0|YouTube: 3 videos
+s04|30|Tips 売上 公開|exit=0|
+s06|30|有料note 売上 公開|exit=0|YouTube: 12 videos
+s05|30|Brain 売上 公開|exit=0|YouTube: 19 videos
+s07|30|LINEスタンプ 売上 公開|exit=0|YouTube: 7 videos
+s09|30|Canvaテンプレート 販売 売上|exit=0|YouTube: 2 videos
+s08|30|Kindle出版 売上 公開|exit=0|YouTube: 2 videos
+s10|30|Udemy 講師 売上|exit=0|YouTube: 3 videos
+t01|90|デジタルプランナー 2027|exit=0|YouTube: 5 videos
+t02|90|推し活 グッズ 自作|exit=0|
+t04|90|同人音声 ASMR 販売|exit=0|YouTube: 0 videos
+t03|90|VTuber 配信素材|exit=0|YouTube: 13 videos
+t06|90|Notion テンプレート|exit=0|YouTube: 6 videos
+t05|90|AI 副業 売れる デジタル|exit=0|YouTube: 17 videos
+t08|90|ココフォリア 素材|exit=0|YouTube: 7 videos
+t07|90|LINEスタンプ AI|exit=0|YouTube: 19 videos
+t10|90|確定申告 副業 2026|exit=0|YouTube: 3 videos
+t09|90|電子書籍 AI 出版|exit=0|YouTube: 18 videos
+ALLDONE

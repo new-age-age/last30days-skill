@@ -1,0 +1,42 @@
+/last30days · researching: Notion テンプレート
+⏳ [95mProcessing[0m Removing duplicates...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="Notion テンプレート" sources=[youtube,hackernews]
+[HN] Searching for 'notion テンプレート' (raw: 'Notion テンプレート', since 2026-08-01, count=60)
+[YouTube] Searching YouTube for 'notion テンプレート' (since 2026-08-01, count=40)
+[HN] Filtered 40/110 low-engagement stories
+[HN] Found 60 stories
+[HN] Prefix filter removed 52/60 false-positive hits for 'Notion テンプレート'
+[HN] Enriching top 8 stories with comments
+[YouTube] Found 40 videos (1 within date range, keeping only in-range for balanced_recent)
+[YouTube] Searching YouTube for 'notion テンプレート review reaction breakdown' (since 2026-08-01, count=40)
+[YouTube] Found 3 videos within date range
+[YouTube] Searching YouTube for 'notion テンプレート full complete official' (since 2026-08-01, count=40)
+[YouTube] Found 3 videos within date range
+[YouTube] Fetching transcripts for up to 7 videos (target: 8): ['dGLT7QWn2zE', 'ki29nzjsIFM', '8JV4kWp_-6k', '-5WIQGDBG_o', 'T6UVC3kWUb4', 'kgR4kQTb5hs', 'yUyc5Dzm6jM']
+[YouTube] Fetching transcripts for 7 videos
+[YouTube] yt-dlp transcript transient failure for 8JV4kWp_-6k (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for yUyc5Dzm6jM (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for 8JV4kWp_-6k (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for yUyc5Dzm6jM (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for 8JV4kWp_-6k (exit 1): ERROR: [youtube] 8JV4kWp_-6k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for 8JV4kWp_-6k: ERROR: [youtube] 8JV4kWp_-6k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for 8JV4kWp_-6k
+[YouTube] yt-dlp transcript failed for yUyc5Dzm6jM (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for yUyc5Dzm6jM: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for yUyc5Dzm6jM
+[YouTube] Got transcripts for 5/7 videos (2 failed)
+[YouTube] Enriching comments for 3 YouTube videos
+[YouTube] yt-dlp comment fetch failed for dGLT7QWn2zE (exit 1)
+[YouTube] Enriched 2/3 videos with comments
+[YouTube] relevance prune dropped 1 of 7 items below the relevance/engagement floor
+[YouTube] Backfilling transcripts for 1 finalized videos (target: 3)
+[YouTube] Fetching transcripts for 1 videos
+[YouTube] yt-dlp transcript transient failure for yUyc5Dzm6jM (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for yUyc5Dzm6jM (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for yUyc5Dzm6jM (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for yUyc5Dzm6jM: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for yUyc5Dzm6jM
+[YouTube] Got transcripts for 0/1 videos (1 failed)
+✓ Research complete (168.3s) - YouTube: 6 videos, HN: 7 stories
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/notion-raw-t06.md

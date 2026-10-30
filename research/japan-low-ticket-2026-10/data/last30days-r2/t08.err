@@ -1,0 +1,102 @@
+/last30days · researching: ココフォリア 素材
+⏳ [95mProcessing[0m Finding patterns...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="ココフォリア 素材" sources=[youtube,hackernews]
+[HN] Searching for 'ココフォリア 素材' (raw: 'ココフォリア 素材', since 2026-08-01, count=60)
+[YouTube] Searching YouTube for 'ココフォリア 素材' (since 2026-08-01, count=40)
+[HN] Found 0 stories
+[YouTube] Found 11 videos within date range
+[YouTube] Searching YouTube for 'ココフォリア 素材 review reaction breakdown' (since 2026-08-01, count=40)
+[YouTube] YouTube search returned 0 results
+[YouTube] Searching YouTube for 'ココフォリア 素材 full complete official' (since 2026-08-01, count=40)
+[YouTube] Found 6 videos within date range
+[YouTube] Fetching transcripts for up to 17 videos (target: 8): ['rC_itQsOHwQ', 'pW_Knwmf50Y', '4nMqP7ZCso4', 'QjYvO-jUfig', 'QO35Q3slhqY', 'UMxpUEbvvCc', 'Af8hSN6506o', 'bLnvfVs2fv4', 'zZ48pjPPgEc', 'u8M6IdHLly0', 'Vk7OEGmbHeA', 'TBmrzbnydWk', 'L_EmK_CL7mM', '4CQqxnj2vKU', 'HiS_Pjiw5Pk', 'zOMWvviMwo8', 'fJ1FuUlS6eA']
+[YouTube] Fetching transcripts for 17 videos
+[YouTube] yt-dlp found no captions for 4nMqP7ZCso4, trying direct HTTP fallback
+[YouTube] yt-dlp found no captions for pW_Knwmf50Y, trying direct HTTP fallback
+[YouTube] Direct transcript: no caption tracks for 4nMqP7ZCso4
+[YouTube] No transcript available for 4nMqP7ZCso4
+[YouTube] Direct transcript: no caption tracks for pW_Knwmf50Y
+[YouTube] No transcript available for pW_Knwmf50Y
+[YouTube] yt-dlp found no captions for QO35Q3slhqY, trying direct HTTP fallback
+[YouTube] yt-dlp transcript transient failure for rC_itQsOHwQ (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Direct transcript: no caption tracks for QO35Q3slhqY
+[YouTube] No transcript available for QO35Q3slhqY
+[YouTube] yt-dlp found no captions for QjYvO-jUfig, trying direct HTTP fallback
+[YouTube] yt-dlp found no captions for UMxpUEbvvCc, trying direct HTTP fallback
+[YouTube] Direct transcript: no caption tracks for QjYvO-jUfig
+[YouTube] No transcript available for QjYvO-jUfig
+[YouTube] Direct transcript: no caption tracks for UMxpUEbvvCc
+[YouTube] No transcript available for UMxpUEbvvCc
+[YouTube] yt-dlp transcript transient failure for Af8hSN6506o (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for bLnvfVs2fv4 (attempt 1/3): ERROR: [youtube] bLnvfVs2fv4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for rC_itQsOHwQ (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for zZ48pjPPgEc (attempt 1/3): ERROR: [youtube] zZ48pjPPgEc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp found no captions for u8M6IdHLly0, trying direct HTTP fallback
+[YouTube] yt-dlp transcript transient failure for bLnvfVs2fv4 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Direct transcript: no caption tracks for u8M6IdHLly0
+[YouTube] No transcript available for u8M6IdHLly0
+[YouTube] yt-dlp transcript transient failure for Af8hSN6506o (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp found no captions for Vk7OEGmbHeA, trying direct HTTP fallback
+[YouTube] Direct transcript: no caption tracks for Vk7OEGmbHeA
+[YouTube] No transcript available for Vk7OEGmbHeA
+[YouTube] yt-dlp transcript transient failure for zZ48pjPPgEc (attempt 2/3): ERROR: [youtube] zZ48pjPPgEc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript failed for rC_itQsOHwQ (exit 1): ERROR: [youtube] rC_itQsOHwQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for rC_itQsOHwQ: ERROR: [youtube] rC_itQsOHwQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for rC_itQsOHwQ
+[YouTube] yt-dlp transcript transient failure for TBmrzbnydWk (attempt 1/3): ERROR: [youtube] TBmrzbnydWk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp found no captions for L_EmK_CL7mM, trying direct HTTP fallback
+[YouTube] Direct transcript: no caption tracks for L_EmK_CL7mM
+[YouTube] No transcript available for L_EmK_CL7mM
+[YouTube] yt-dlp transcript failed for bLnvfVs2fv4 (exit 1): ERROR: [youtube] bLnvfVs2fv4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for bLnvfVs2fv4: ERROR: [youtube] bLnvfVs2fv4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for bLnvfVs2fv4
+[YouTube] yt-dlp transcript failed for Af8hSN6506o (exit 1): ERROR: [youtube] Af8hSN6506o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for Af8hSN6506o: ERROR: [youtube] Af8hSN6506o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for Af8hSN6506o
+[YouTube] yt-dlp found no captions for 4CQqxnj2vKU, trying direct HTTP fallback
+[YouTube] Direct transcript: no caption tracks for 4CQqxnj2vKU
+[YouTube] No transcript available for 4CQqxnj2vKU
+[YouTube] yt-dlp found no captions for HiS_Pjiw5Pk, trying direct HTTP fallback
+[YouTube] yt-dlp transcript transient failure for TBmrzbnydWk (attempt 2/3): ERROR: [youtube] TBmrzbnydWk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Direct transcript: no caption tracks for HiS_Pjiw5Pk
+[YouTube] No transcript available for HiS_Pjiw5Pk
+[YouTube] yt-dlp transcript transient failure for zOMWvviMwo8 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp found no captions for zZ48pjPPgEc, trying direct HTTP fallback
+[YouTube] Direct transcript: no caption tracks for zZ48pjPPgEc
+[YouTube] No transcript available for zZ48pjPPgEc
+[YouTube] yt-dlp transcript transient failure for fJ1FuUlS6eA (attempt 1/3): ERROR: [youtube] fJ1FuUlS6eA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for zOMWvviMwo8 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for TBmrzbnydWk (exit 1): ERROR: [youtube] TBmrzbnydWk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for TBmrzbnydWk: ERROR: [youtube] TBmrzbnydWk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for TBmrzbnydWk
+[YouTube] yt-dlp found no captions for fJ1FuUlS6eA, trying direct HTTP fallback
+[YouTube] Direct transcript: no caption tracks for fJ1FuUlS6eA
+[YouTube] No transcript available for fJ1FuUlS6eA
+[YouTube] yt-dlp transcript failed for zOMWvviMwo8 (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for zOMWvviMwo8: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for zOMWvviMwo8
+[YouTube] Got transcripts for 0/17 videos (17 failed)
+[YouTube] Enriching comments for 3 YouTube videos
+[YouTube] Enriched 1/3 videos with comments
+[YouTube] relevance prune dropped 5 of 17 items below the relevance/engagement floor
+[HN] Searching for 'ココフォリア 素材' (raw: 'ココフォリア 素材', since 2026-08-01, count=60)
+[HN] Found 0 stories
+[YouTube] Backfilling transcripts for 1 finalized videos (target: 8)
+[YouTube] Fetching transcripts for 1 videos
+[YouTube] yt-dlp transcript transient failure for zOMWvviMwo8 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for zOMWvviMwo8 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for zOMWvviMwo8 (exit 1): ERROR: [youtube] zOMWvviMwo8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for zOMWvviMwo8: ERROR: [youtube] zOMWvviMwo8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for zOMWvviMwo8
+[YouTube] Got transcripts for 0/1 videos (1 failed)
+✓ Research complete (115.1s) - YouTube: 7 videos, HN: 0 stories
+
+Research quality: 4/4 core sources.
+Degraded: YouTube.
+
+Free fixes:
+  - YouTube returned 7 videos but only 0 transcripts captured (6 of those had captions disabled by the uploader, which is a separate cause and not fixable on your end). The most common remaining cause is a stale yt-dlp binary - YouTube's caption format changes frequently and old binaries silently fail every transcript. Update via your package manager: scoop update yt-dlp (Windows), brew upgrade yt-dlp (macOS), or pip install -U yt-dlp.
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/last30days-raw-t08.md

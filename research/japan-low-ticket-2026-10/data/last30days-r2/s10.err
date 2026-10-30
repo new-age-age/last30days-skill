@@ -1,0 +1,84 @@
+/last30days · researching: Udemy 講師 売上
+⏳ [95mProcessing[0m Organizing findings...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="Udemy 講師 売上" sources=[youtube,hackernews]
+[HN] Searching for 'udemy 講師 売上' (raw: 'Udemy 講師 売上', since 2026-09-30, count=60)
+[YouTube] Searching YouTube for 'udemy 講師 売上' (since 2026-09-30, count=40)
+[HN] Filtered 1/1 low-engagement stories
+[HN] Found 0 stories
+[YouTube] Found 7 videos within date range
+[YouTube] Searching YouTube for 'udemy 講師 売上 review reaction breakdown' (since 2026-09-30, count=40)
+[YouTube] Found 32 videos (0 within date range, keeping only in-range for balanced_recent)
+[YouTube] Searching YouTube for 'udemy 講師 売上 full complete official' (since 2026-09-30, count=40)
+[YouTube] Found 40 videos (2 within date range, keeping only in-range for balanced_recent)
+[YouTube] Fetching transcripts for up to 8 videos (target: 8): ['cFSDAl3n9xA', 'vWzn5qb5nb0', 'Vsq8AUaMmq0', 'Iul1CNTsBjw', 'Vg0PjATAWDI', '98wUIqXWvGY', 'hjJrUOtE7s8', 'hOp7ZIAcNwE']
+[YouTube] Fetching transcripts for 8 videos
+[YouTube] yt-dlp transcript transient failure for cFSDAl3n9xA (attempt 1/3): ERROR: [youtube] cFSDAl3n9xA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for vWzn5qb5nb0 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for Iul1CNTsBjw (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for Vsq8AUaMmq0 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for vWzn5qb5nb0 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for Vg0PjATAWDI (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for cFSDAl3n9xA (attempt 2/3): ERROR: [youtube] cFSDAl3n9xA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for Iul1CNTsBjw (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for Vsq8AUaMmq0 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for Vg0PjATAWDI (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for vWzn5qb5nb0 (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for vWzn5qb5nb0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for vWzn5qb5nb0
+[YouTube] yt-dlp transcript transient failure for 98wUIqXWvGY (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for cFSDAl3n9xA (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for cFSDAl3n9xA: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for cFSDAl3n9xA
+[YouTube] yt-dlp transcript failed for Iul1CNTsBjw (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for Iul1CNTsBjw: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for Iul1CNTsBjw
+[YouTube] yt-dlp transcript transient failure for hjJrUOtE7s8 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for Vsq8AUaMmq0 (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for Vsq8AUaMmq0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for Vsq8AUaMmq0
+[YouTube] yt-dlp transcript failed for Vg0PjATAWDI (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for Vg0PjATAWDI: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for Vg0PjATAWDI
+[YouTube] yt-dlp transcript transient failure for hOp7ZIAcNwE (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for 98wUIqXWvGY (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for hjJrUOtE7s8 (attempt 2/3): ERROR: [youtube] hjJrUOtE7s8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for hOp7ZIAcNwE (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for 98wUIqXWvGY (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for 98wUIqXWvGY: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for 98wUIqXWvGY
+[YouTube] yt-dlp transcript failed for hOp7ZIAcNwE (exit 1): ERROR: [youtube] hOp7ZIAcNwE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Transcript fetch failed for hOp7ZIAcNwE: ERROR: [youtube] hOp7ZIAcNwE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] No transcript available for hOp7ZIAcNwE
+[YouTube] Got transcripts for 1/8 videos (7 failed)
+[YouTube] Enriching comments for 3 YouTube videos
+[YouTube] yt-dlp comment fetch failed for cFSDAl3n9xA (exit 1)
+[YouTube] yt-dlp comment fetch failed for Vsq8AUaMmq0 (exit 1)
+[YouTube] Enriched 1/3 videos with comments
+[YouTube] relevance prune dropped 3 of 8 items below the relevance/engagement floor
+[HN] Searching for 'udemy 講師 売上' (raw: 'udemy 講師 売上', since 2026-09-30, count=60)
+[HN] Filtered 1/1 low-engagement stories
+[HN] Found 0 stories
+[YouTube] Backfilling transcripts for 2 finalized videos (target: 7)
+[YouTube] Fetching transcripts for 2 videos
+[YouTube] yt-dlp transcript transient failure for Vsq8AUaMmq0 (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for hOp7ZIAcNwE (attempt 1/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript transient failure for hOp7ZIAcNwE (attempt 2/3): ERROR: [youtube] hOp7ZIAcNwE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for Vsq8AUaMmq0 (attempt 2/3): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] yt-dlp transcript failed for Vsq8AUaMmq0 (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for Vsq8AUaMmq0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for Vsq8AUaMmq0
+[YouTube] yt-dlp transcript failed for hOp7ZIAcNwE (exit 1): ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] Transcript fetch failed for hOp7ZIAcNwE: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+[YouTube] No transcript available for hOp7ZIAcNwE
+[YouTube] Got transcripts for 0/2 videos (2 failed)
+✓ Research complete (169.0s) - YouTube: 3 videos, HN: 0 stories
+
+Research quality: 4/4 core sources.
+Degraded: YouTube.
+
+Free fixes:
+  - YouTube returned 3 videos but only 1 transcripts captured. The most common remaining cause is a stale yt-dlp binary - YouTube's caption format changes frequently and old binaries silently fail every transcript. Update via your package manager: scoop update yt-dlp (Windows), brew upgrade yt-dlp (macOS), or pip install -U yt-dlp.
+
+Bonus: TikTok and Instagram are available with a free ScrapeCreators key at scrapecreators.com (no affiliation).
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/udemy-raw-s10.md

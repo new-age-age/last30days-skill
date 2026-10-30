@@ -1,0 +1,24 @@
+/last30days · researching: Canvaテンプレート 販売 売上
+⏳ [95mProcessing[0m Scoring and ranking...
+[Planner] Plan: intent=product, freshness=balanced_recent, cluster_mode=none, subqueries=1, source=external
+[Planner]   sq1 label=primary search="Canvaテンプレート 販売 売上" sources=[youtube,hackernews]
+[HN] Searching for 'canvaテンプレート 販売 売上' (raw: 'Canvaテンプレート 販売 売上', since 2026-09-30, count=60)
+[YouTube] Searching YouTube for 'canvaテンプレート 販売 売上' (since 2026-09-30, count=40)
+[HN] Found 0 stories
+[YouTube] Found 40 videos (1 within date range, keeping only in-range for balanced_recent)
+[YouTube] Searching YouTube for 'canvaテンプレート 販売 売上 review reaction breakdown' (since 2026-09-30, count=40)
+[YouTube] Found 14 videos (1 within date range, keeping only in-range for balanced_recent)
+[YouTube] Searching YouTube for 'canvaテンプレート 販売 売上 full complete official' (since 2026-09-30, count=40)
+[YouTube] Found 40 videos (0 within date range, keeping only in-range for balanced_recent)
+[YouTube] Fetching transcripts for up to 2 videos (target: 8): ['SxLK5oJK-TA', '2uzoBz2eti0']
+[YouTube] Fetching transcripts for 2 videos
+[YouTube] yt-dlp transcript transient failure for 2uzoBz2eti0 (attempt 1/3): ERROR: [youtube] 2uzoBz2eti0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] yt-dlp transcript transient failure for SxLK5oJK-TA (attempt 1/3): ERROR: [youtube] SxLK5oJK-TA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-
+[YouTube] Got transcripts for 2/2 videos (0 failed)
+[YouTube] Enriching comments for 2 YouTube videos
+[YouTube] yt-dlp comment fetch failed for SxLK5oJK-TA (exit 1)
+[YouTube] Enriched 0/2 videos with comments
+[HN] Searching for 'canvaテンプレート 販売 売上' (raw: 'canvaテンプレート 販売 売上', since 2026-09-30, count=60)
+[HN] Found 0 stories
+✓ Research complete (107.5s) - YouTube: 2 videos, HN: 0 stories
+[last30days] Saved output to /tmp/claude-0/-home-user/e275fd14-91fc-5897-a89c-9e86a57ee450/scratchpad/l30b/out/canva-raw-s09.md

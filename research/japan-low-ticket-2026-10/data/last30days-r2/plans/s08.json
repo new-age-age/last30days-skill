@@ -1,0 +1,1 @@
+{"intent": "product", "freshness_mode": "balanced_recent", "cluster_mode": "none", "subqueries": [{"label": "primary", "search_query": "Kindle出版 売上 公開", "ranking_query": "Kindle出版 売上 公開：日本で実際に売れているデジタル商品、売上・販売数の報告、伸びている商品は？", "sources": ["youtube", "hackernews"], "weight": 1.0}]}
